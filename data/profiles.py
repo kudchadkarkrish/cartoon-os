@@ -266,7 +266,7 @@ PROFILES = [
                     "and an emergency SOS module with intuitive UI/UX and scalable architecture."
                 ),
                 "tech": ["React.js", "Tailwind CSS", "JavaScript", "Supabase", "Mapbox"],
-                "repo": "https://github.com",
+                "repo": "https://github.com/Tanmay2007",
                 "live": "",
             },
             {
@@ -277,7 +277,7 @@ PROFILES = [
                     "safety assistance in collaborative time-constrained environments."
                 ),
                 "tech": ["JavaScript", "Maps Integration", "APIs", "Web Technologies"],
-                "repo": "https://github.com",
+                "repo": "https://github.com/Tanmay2007",
                 "live": "",
             },
             {
@@ -288,7 +288,7 @@ PROFILES = [
                     "personalization and UI design."
                 ),
                 "tech": ["JavaScript", "APIs", "HTML5", "CSS3"],
-                "repo": "https://github.com",
+                "repo": "https://github.com/Tanmay2007",
                 "live": "",
             },
         ],
@@ -337,7 +337,7 @@ PROFILES = [
         ],
         "email": "tr3970@srmist.edu.in",
         "socials": {
-            "GitHub":   "https://github.com",
+            "GitHub":   "https://github.com/Tanmay2007",
             "LinkedIn": "https://linkedin.com",
         },
     },
