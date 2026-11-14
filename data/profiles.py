@@ -338,7 +338,7 @@ PROFILES = [
         "email": "tr3970@srmist.edu.in",
         "socials": {
             "GitHub":   "https://github.com/Tanmay2007",
-            "LinkedIn": "https://linkedin.com",
+            "LinkedIn": "https://www.linkedin.com/in/tanmayraii/",
         },
     },
 
