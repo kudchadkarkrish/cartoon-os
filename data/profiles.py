@@ -72,7 +72,7 @@ PROFILES = [
                     "taskbar, and responsive screen transitions."
                 ),
                 "tech": ["Python", "Tkinter"],
-                "repo": "https://github.com/kudchadkarkrish",
+                "repo": "https://github.com/kudchadkarkrish/cartoon-os",
                 "live": "",
             },
         ],
